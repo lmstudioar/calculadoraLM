@@ -1,0 +1,6 @@
+{
+  "name": "LM Studio - Calculadora de Servicios",
+  "description": "Calculadora interactiva de servicios de edición de video, diseño gráfico, páginas web y community manager para la agencia LM Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
